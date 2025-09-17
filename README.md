@@ -5,9 +5,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-mamidibathula-3a0a38257/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkatamamidibathula2003@gmail.com)
 [![AWS Certified](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
-[![CKA Certified](https://img.shields.io/badge/Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](#)
+[![CKA Certified](https://img.shields.io/badge/Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/earner/earned/badge/4a97d7d8-3a5c-4f5e-bc84-066a0e7c4c84) <!-- Replace with your actual credential link -->
 
-I am a passionate and certified DevOps/SRE professional focused on building robust, scalable, and highly automated infrastructure. I bridge the gap between development and operations by implementing CI/CD pipelines, Infrastructure as Code (IaC), and comprehensive monitoring solutions. I strongly believe in the "Everything as Code" philosophy to ensure repeatability, reliability, and efficiency.
+I am a passionate and certified DevOps/SRE professional focused on building robust, scalable, and highly automated infrastructure. I bridge the gap between development and operations by implementing CI/CD pipelines, Infrastructure as Code (IaC), and comprehensive monitoring solutions. I strongly believe in the **"Everything as Code"** philosophy to ensure repeatability, reliability, and efficiency.
 
 My toolbox includes **Kubernetes, AWS, Docker, Ansible, Jenkins, Prometheus, Grafana, and Python** for automation scripting.
 
@@ -61,17 +61,8 @@ An automated setup for a distributed Selenium Grid using Docker, enabling parall
 
 ## 📜 Certifications
 
-- **Certified Kubernetes Administrator (CKA)** - The Linux Foundation
-- **AWS Certified Cloud Practitioner** - Amazon Web Services (AWS)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venkatamamidibathula&show_icons=true&theme=radical" alt="Venkata's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatamamidibathula&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+- [**Certified Kubernetes Administrator (CKA)**](https://www.credly.com/earner/earned/badge/4a97d7d8-3a5c-4f5e-bc84-066a0e7c4c84) - The Linux Foundation <!-- Replace with your link -->
+- **AWS Certified Cloud Practitioner** - Amazon Web Services (AWS) <!-- Replace with your link -->
 
 ---
 
@@ -80,8 +71,3 @@ An automated setup for a distributed Selenium Grid using Docker, enabling parall
 I'm always open to discussing DevOps, SRE, cloud architecture, automation, or potential collaboration opportunities.
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/venkata-mamidibathula-3a0a38257/) or via [email](mailto:venkatamamidibathula2003@gmail.com).
-
-<!---
-venkatamamidibathula/venkatamamidibathula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
