@@ -27,11 +27,6 @@ My toolbox includes **Kubernetes, AWS, Docker, Ansible, Jenkins, Prometheus, Gra
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatamamidibathula&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
-<!-- GitHub Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venkatamamidibathula&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
 ---
 
 ## 🛠️ Technical Toolkit
