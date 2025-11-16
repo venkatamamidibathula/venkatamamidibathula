@@ -2,8 +2,6 @@
 
 **DevOps Engineer | Site Reliability Engineer (SRE) | Automation Enthusiast**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-mamidibathula-3a0a38257/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkatamamidibathula2003@gmail.com)
 [![AWS Certified](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
 [![CKA Certified](https://img.shields.io/badge/Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/earner/earned/badge/4a97d7d8-3a5c-4f5e-bc84-066a0e7c4c84)
 
