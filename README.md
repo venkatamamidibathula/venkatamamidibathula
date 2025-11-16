@@ -16,7 +16,7 @@ My toolbox includes **Kubernetes, AWS, Docker, Ansible, Jenkins, Prometheus, Gra
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venkatamamidibathula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=venkatamamidibathula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -24,11 +24,12 @@ My toolbox includes **Kubernetes, AWS, Docker, Ansible, Jenkins, Prometheus, Gra
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatamamidibathula&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatamamidibathula&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
+<!-- GitHub Activity Graph -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=venkatamamidibathula&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venkatamamidibathula&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
