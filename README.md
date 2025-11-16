@@ -13,22 +13,6 @@ My toolbox includes **Kubernetes, AWS, Docker, Ansible, Jenkins, Prometheus, Gra
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venkatamamidibathula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatamamidibathula&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatamamidibathula&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
 ## 🛠️ Technical Toolkit
 
 **Cloud & Platforms:** 
@@ -87,9 +71,3 @@ An automated setup for a distributed Selenium Grid using Docker, enabling parall
 I'm always open to discussing DevOps, SRE, cloud architecture, automation, or potential collaboration opportunities.
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/venkata-mamidibathula-3a0a38257/) or via [email](mailto:venkatamamidibathula2003@gmail.com).
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=venkatamamidibathula&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
